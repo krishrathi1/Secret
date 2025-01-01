@@ -13,7 +13,7 @@ Follow these steps to bring your contribution graph to life:
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/fenrir2608/goGreen.git
+git clone https://github.com/krishrathi1/goGreen.git
 cd goGreen
 ```
 3. **Set up your project**
@@ -44,6 +44,4 @@ So, you've got the basics down. What's next?
 - [`simple-git`](https://www.npmjs.com/package/simple-git) - For easy Git commands.
 - [`random`](https://www.npmjs.com/package/random) - To generate random numbers for the commits.
 
-## Credits
-
-Huge thanks to [Akshay Saini](https://github.com/akshaymarch7) for the original video behind this project.
+## C
